@@ -1,0 +1,23 @@
+{
+  "name": "mongodb-class",
+  "version": "1.0.0",
+  "description": "This is practical class of mongo database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinesh2894/mongoDB-class.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinesh2894/mongoDB-class/issues"
+  },
+  "homepage": "https://github.com/dinesh2894/mongoDB-class#readme",
+  "dependencies": {
+    "mongoose": "^8.2.0"
+  }
+}
